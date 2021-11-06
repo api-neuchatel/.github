@@ -1,3 +1,5 @@
+## About us
+
 The Association of IT Professionals (API) supports the IT sector in the canton of Neuchâtel and beyond.
 We allow current and future IT professionals to meet in a friendly environment, promoting the exchange of knowledge and the creation of contact.
 
